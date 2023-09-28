@@ -1,0 +1,324 @@
+.mediaViewInfo {
+	--web-view-name: Main Login Page;
+	--web-view-id: Main_Login_Page;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Main_Login_Page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Main_Login_Page {
+	position: absolute;
+	width: 1520px;
+	height: 750px;
+	background: linear-gradient(100deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 100%);
+	overflow: hidden;
+	--web-view-name: Main Login Page;
+	--web-view-id: Main_Login_Page;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#n_40434 {
+	opacity: 0.75;
+	position: absolute;
+	width: 1520px;
+	height: 950px;
+	left: 0px;
+	top: -200px;
+	overflow: visible;
+}
+#Icon_ionic-md-school {
+	fill: rgba(255,255,255,1);
+}
+.Icon_ionic-md-school {
+	overflow: visible;
+	position: absolute;
+	width: 210.218px;
+	height: 161.658px;
+	left: 340.391px;
+	top: 279.171px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Student_Login.html;
+	cursor: pointer;
+}
+#Icon_map-local-government {
+	fill: rgba(255,255,255,1);
+}
+.Icon_map-local-government {
+	overflow: visible;
+	position: absolute;
+	width: 146.799px;
+	height: 156.184px;
+	left: 1010.101px;
+	top: 284.908px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Central_Admin_Login.html;
+	cursor: pointer;
+}
+#Component_4__2 {
+	position: absolute;
+	width: 455px;
+	height: 66px;
+	left: 856px;
+	top: 467px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Central_Admin_Login.html;
+	cursor: pointer;
+}
+#Click_here_for_Government_auth {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 456px;
+	height: 66px;
+	text-align: center;
+	font-family: .AppleSystemUIFont;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#or_up {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.or_up {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 96px;
+	left: 755px;
+	top: 267px;
+}
+#Icon_simple-codepen {
+	position: absolute;
+	width: 60.901px;
+	height: 57.56px;
+	left: 26px;
+	top: 22px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Test___7.html;
+	cursor: pointer;
+}
+#Icon_simple-codepen_hp {
+	fill: rgba(255,255,255,1);
+}
+.Icon_simple-codepen_hp {
+	overflow: visible;
+	position: absolute;
+	width: 60.901px;
+	height: 57.56px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Track_ {
+	left: 332px;
+	top: 84.396px;
+	position: absolute;
+	overflow: visible;
+	width: 188px;
+	height: 67px;
+	text-align: left;
+	font-family: .AppleSystemUIFont;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Path_1_hs {
+	fill: url(#Path_1_hs);
+}
+.Path_1_hs {
+	overflow: visible;
+	position: absolute;
+	width: 627.42px;
+	height: 70.815px;
+	transform: matrix(1,0,0,1,462.4481,115.9882) rotate(-1deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#my {
+	left: 377.5px;
+	top: 134.396px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 67px;
+	text-align: left;
+	font-family: .AppleSystemUIFont;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#a_product_from_Cod3Knights {
+	left: 736px;
+	top: 186.896px;
+	position: absolute;
+	overflow: visible;
+	width: 456px;
+	height: 35px;
+	text-align: center;
+	font-family: .AppleSystemUIFont;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+#Component_9__11 {
+	position: absolute;
+	width: 259px;
+	height: 48px;
+	left: 100px;
+	top: 27px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Test___7.html;
+	cursor: pointer;
+}
+#Cod3_Knights {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 260px;
+	height: 47px;
+	text-align: center;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Component_5__2 {
+	position: absolute;
+	width: 1320px;
+	height: 33px;
+	left: 108px;
+	top: 663px;
+	overflow: visible;
+}
+#Click_here_to_get_information_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1321px;
+	height: 33px;
+	text-align: center;
+	font-family: .AppleSystemUIFont;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#or_up_hz {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.or_up_hz {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 96px;
+	left: 755px;
+	top: 448px;
+}
+#Component_4__3 {
+	position: absolute;
+	width: 455px;
+	height: 66px;
+	left: 218px;
+	top: 471px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Student_Login.html;
+	cursor: pointer;
+}
+#Click_here_for_SchoolCollege_L {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 456px;
+	height: 66px;
+	text-align: center;
+	font-family: .AppleSystemUIFont;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#OR {
+	left: 721px;
+	top: 388px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	height: 35px;
+	text-align: center;
+	font-family: .AppleSystemUIFont;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
